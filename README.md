@@ -5,7 +5,7 @@ The Cloud Resume Challenge is a multiple-step resume project which helps build a
 
 ## Architecture
 
-![alt text](./cloud.png)
+![alt text](./architecture.png)
 
 ### Tech-stack ###
 
