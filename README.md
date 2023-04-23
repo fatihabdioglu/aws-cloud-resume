@@ -8,7 +8,7 @@ Hi, This is my first Cloud Resume Challenge attempt. This challenge provided me 
 
 ## Architecture Diagram
 
-![alt text](./architecture.png)
+![alt text](./cloud.png)
 
 ### Tech-stack ###
 
