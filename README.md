@@ -1,7 +1,10 @@
 # AWS Cloud Resume Challenge
 
-Hi, This is my first Cloud Resume Challenge attempt
-The Cloud Resume Challenge is a multiple-step resume project which helps build and demonstrate skills fundamental to pursuing a career in Cloud. The project was published by Forrest
+Hi, This is my first Cloud Resume Challenge attempt. This challenge provided me with the opportunity to gain technical experience and improve my skills using AWS. The project was published by Forrest Brazeal.
+
+[My website is here](https://resume.fatihabdioglu.link/)
+
+[The challenge website is here](https://cloudresumechallenge.dev/)
 
 ## Architecture
 
