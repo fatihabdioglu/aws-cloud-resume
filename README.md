@@ -2,7 +2,7 @@
 
 Hi, This is my first Cloud Resume Challenge attempt. This challenge provided me with the opportunity to gain technical experience and improve my skills using AWS. Development is ongoing, I will share updates. The project was published by Forrest Brazeal.
 
-[My website is here](https://resume.fatihabdioglu.link/)
+[My website is here](https://cloud.fatihabdioglu.link/)
 
 [The challenge website is here](https://cloudresumechallenge.dev/)
 
