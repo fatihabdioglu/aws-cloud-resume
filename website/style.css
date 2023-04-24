@@ -41,7 +41,7 @@
 }
 .video{
     margin-top: 0px;
-    width: 50%;
+    width: 90%;
     height: auto;
 }
 
@@ -54,9 +54,4 @@
     color: rgb(165, 210, 30);
     margin-top: 30px;
 }
-@media screen and (max-width: 600px) {
-    body {
-      font-size: 14px;
-    }
-  }
  
