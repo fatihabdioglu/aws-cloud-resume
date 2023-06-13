@@ -32,6 +32,15 @@
     color: rgb(248, 142, 4);
     font-family:DynaPuff
 }
+
+.cert{
+    text-align: center;
+    margin-top: 20px;
+    font-size: 25px;
+    margin: 0 auto;
+    color: rgb(160, 0, 0);
+    font-family:'Times New Roman', Times, serif
+}
 .devops{
     display: block;
     margin: 0 auto;
@@ -65,4 +74,3 @@
         height: auto;
     }
  }
-
